@@ -1,0 +1,8 @@
+{
+    "users": [
+        { "name": "Carlos", "active": true, "amount": 12 },
+        { "name": "Silva", "active": false, "amount": 20 },
+        { "name": "Pedro", "active": false, "amount": 20 }
+    ],
+    "currentDate": "2022-08-20 15:44:00"
+}
